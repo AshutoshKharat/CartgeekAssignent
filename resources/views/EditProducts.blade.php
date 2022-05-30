@@ -82,7 +82,6 @@
 <script src="{{ asset('public/asset/js/jquery_213.min.js') }}"></script>
 <script src="{{ asset('public/asset/js/SweetAlert_Function.js') }}"></script>
 <script src="{{ asset('public/asset/js/SweetAlert.js') }}"></script>
-
 <script>
     var deletedimage = [];
     var base_url = {!!json_encode(url('/')) !!};
